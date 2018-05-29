@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Math</string>
+    <string name="textView1">Enter Two Numbers and I will Calculate!</string>
+    <string name="editTextHint1">First Number</string>
+    <string name="editTextHint2">Second Number</string>
+    <string name="submitAnswer">Submit your answer</string>
+
+</resources>
