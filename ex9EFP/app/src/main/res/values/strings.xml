@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Paint Calculator</string>
+    <string name="first_question">How many square feet is your room?</string>
+    <string name="second_question">How many pizzas do you have?</string>
+
+    <string name ="first_field">Enter answer</string>
+    <string name ="second_field">Enter answer</string>
+
+    <string name="submit_button">Submit</string>
+
+
+</resources>
