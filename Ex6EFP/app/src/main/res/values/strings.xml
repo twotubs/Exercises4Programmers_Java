@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retirement Calculator</string>
+    <string name="textView1">I will calculate your retirement age</string>
+    <string name="editTextHint1">How old are you now?</string>
+    <string name="editTextHint2">At what age would you like to retire?</string>
+    <string name="submitAnswer">Submit your answer</string>
+
+</resources>
