@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="first_question">What is your height in inches?</string>
+    <string name="second_question">What is your weight?</string>
+    <string name="third_question">How many drinks have you had?</string>
+    <string name="fourth_question">What is the amount of time since your last drink?</string>
+    <string name="fifth_question">Enter the price of item 3</string>
+    <string name="sixth_question">Enter the quantity of item 3?</string>
+
+    <string name ="first_field">Enter answer</string>
+    <string name ="second_field">Enter answer</string>
+
+    <string name="submit_button">Submit</string>
+
+
+</resources>
