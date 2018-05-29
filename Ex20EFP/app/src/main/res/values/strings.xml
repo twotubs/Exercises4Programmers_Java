@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="first_question">What is your order amount?</string>
+    <string name="second_question">What state do you live in?</string>
+    <string name="third_question">What county do you live in? ?</string>
+    <string name="fourth_question">What is the amount of time since your last drink?</string>
+    <string name="fifth_question">Enter the price of item 3</string>
+    <string name="sixth_question">Enter the quantity of item 3?</string>
+
+    <string name ="first_field">Enter answer</string>
+    <string name ="second_field">Enter answer</string>
+
+    <string name="submit_button">Submit</string>
+
+
+</resources>
