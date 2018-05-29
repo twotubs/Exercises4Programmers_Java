@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex7EFP</string>
+    <string name="first_question">What is the length of the room in feet?</string>
+    <string name="second_question">What is the width of the room in feet?</string>
+
+    <string name ="first_field">Enter answer</string>
+    <string name ="second_field">Enter answer</string>
+
+    <string name="submit_button">Submit</string>
+
+
+</resources>
