@@ -1,0 +1,16 @@
+<resources>
+<string name="app_name">Ex10EFP</string>
+<string name="first_question">Enter the price of item 1</string>
+<string name="second_question">Enter the quantity of item 1?</string>
+<string name="third_question">Enter the price of item 2</string>
+<string name="fourth_question">Enter the quantity of item 2?</string>
+<string name="fifth_question">Enter the price of item 3</string>
+<string name="sixth_question">Enter the quantity of item 3?</string>
+
+<string name ="first_field">Enter answer</string>
+<string name ="second_field">Enter answer</string>
+
+<string name="submit_button">Submit</string>
+
+
+</resources>
