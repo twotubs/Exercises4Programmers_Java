@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ex14EFP</string>
+    <string name="first_question">What is your username?</string>
+    <string name="second_question">What is your password?</string>
+    <string name="third_question">Enter the number of years</string>
+    <string name="fourth_question">What is the number of times the interest compounds per year?</string>
+    <string name="fifth_question">Enter the price of item 3</string>
+    <string name="sixth_question">Enter the quantity of item 3?</string>
+
+    <string name ="first_field">Enter answer</string>
+    <string name ="second_field">Enter answer</string>
+
+    <string name="submit_button">Submit</string>
+
+
+</resources>
