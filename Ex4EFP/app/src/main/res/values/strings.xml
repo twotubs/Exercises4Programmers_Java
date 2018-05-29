@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex4EFP</string>
+    <string name="textView1">Start Your MadLib Here</string>
+    <string name="editTextHint1">Write a Noun</string>
+    <string name="editTextHint2">Write an adjective</string>
+    <string name="submitAnswer">Submit your answer</string>
+
+</resources>
