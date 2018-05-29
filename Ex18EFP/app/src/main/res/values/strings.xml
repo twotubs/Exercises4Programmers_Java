@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="first_question">Type in F or C for the temperature you have and want to convert.</string>
+    <string name="second_question">What is the temperature</string>
+    <string name="third_question">How many drinks have you had?</string>
+    <string name="fourth_question">What is the amount of time since your last drink?</string>
+    <string name="fifth_question">Enter the price of item 3</string>
+    <string name="sixth_question">Enter the quantity of item 3?</string>
+
+    <string name ="first_field">Enter answer</string>
+    <string name ="second_field">Enter answer</string>
+
+    <string name="submit_button">Submit</string>
+
+
+</resources>
